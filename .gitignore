@@ -1,7 +1,6 @@
-saved_images/*
-config/model/*
-config/*
+config/model/
+config/
 .venv/
 .idea/
 __pycache__/
-.idea
+saved_images/
